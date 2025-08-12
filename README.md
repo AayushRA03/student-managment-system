@@ -1,7 +1,3 @@
-Got it ✅
-Here’s your **GitHub README.md** for the **Student Management System** in C++ (built using a doubly linked list).
-
----
 
 ```markdown
 # 🎓 Student Management System (C++)
